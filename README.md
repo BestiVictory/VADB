@@ -15,6 +15,10 @@ This repository introduces **VADB**, a large-scale video aesthetics database, an
   <b>Figure 2: Sample videos and annotations from the VADB dataset</b>
 </div>
 
+## 📜 License
+- **VADB dataset**: Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (commercial use prohibited).
+- **Code and models**: Licensed under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
 ## 📦 Dataset
 The **VADB dataset** is publicly available on Hugging Face:  
 [https://huggingface.co/datasets/BestiVictoryLab/VADB](https://huggingface.co/datasets/BestiVictoryLab/VADB)
@@ -90,8 +94,4 @@ The repository is structured into three main components:
    ```  
 3. Load the pre-trained video encoder (see [Video Encoder](#video-encoder)).  
 4. Run the scoring model suitable for your use case (see [Scoring Models](#scoring-models)). 
-
-## 📜 License
-- **VADB dataset**: Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (commercial use prohibited).
-- **Code and models**: Licensed under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
     
