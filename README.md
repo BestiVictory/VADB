@@ -31,7 +31,7 @@ It includes:
 
 ### Video Encoder
 The pre-trained **video encoder model** can be obtained from Google Drive:  
-[https://huggingface.co/BestiVictoryLab/vadb-video-encoder](https://huggingface.co/BestiVictoryLab/vadb-video-encoder)  
+[https://drive.google.com/file/d/1hCSY1jY-tvXJSgYyyi0M60mcoobgkIGH/view?usp=drive_link](https://drive.google.com/file/d/1hCSY1jY-tvXJSgYyyi0M60mcoobgkIGH/view?usp=drive_link)  
 This encoder extracts aesthetic feature vectors from videos and serves as the foundational component for all scoring models.
 
 ### Scoring Models
