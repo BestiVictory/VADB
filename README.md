@@ -8,6 +8,7 @@ This repository introduces **VADB**, a large-scale video aesthetics database, an
   <b>Figure 1: Architecture of the VADB-Net Video Encoder</b>
 </div>
 
+
 <div align="center">
   <img src="VADB-examples.png" alt="VADB Examples" width="700" />
   <br>
