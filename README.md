@@ -26,7 +26,7 @@ The **VADB dataset** is publicly available on Hugging Face:
 **The VADB dataset is licensed under CC BY-NC 4.0**, which prohibits any commercial use. For commercial collaborations, please contact us.
 
 It includes:
-- **9,000+ videos** covering diverse video styles and content categories
+- **9,000 videos** covering diverse video styles and content categories
 - **Detailed language comments** for each video
 - **Aesthetic scores across 7-11 dimensions**, comprehensively covering the aesthetic attribute features of videos
 - **Rich objective tags**, annotating video shooting techniques and other objective dimensions
