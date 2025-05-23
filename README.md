@@ -10,7 +10,7 @@ The **VADB dataset** is publicly available on Hugging Face:
 
 It includes:
 - **9,000+ videos** covering diverse video styles and content categories
-- **Detailed linguistic descriptions** for each video
+- **Detailed language comments** for each video
 - **Aesthetic scores across 7-11 dimensions**, comprehensively covering the aesthetic attribute features of videos
 - **Rich objective tags**, annotating video shooting techniques and other objective dimensions
 
