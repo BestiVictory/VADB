@@ -17,7 +17,7 @@ This repository introduces **VADB**, a large-scale video aesthetics database, an
 
 ## 📜 License
 - **VADB dataset**: Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (commercial use prohibited).
-- **Code and models**: Licensed under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+- **Code and models**: Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## 📦 Dataset
 The **VADB dataset** is publicly available on Hugging Face:  
