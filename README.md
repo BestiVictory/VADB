@@ -3,7 +3,7 @@
 This repository introduces **VADB**, a large-scale video aesthetics database, and **VADB-Net**, a novel video aesthetics scoring framework designed to evaluate the aesthetic quality of videos across multiple dimensions. Our work provides comprehensive resources for researchers and developers interested in video aesthetics analysis, computer vision, and multimedia content assessment.
 
 <div align="center">
-  <img src="VADB-Net.png" alt="VADB-Net Architecture" width="600" />
+  <img src="VADB-Net.png" alt="VADB-Net Architecture" width="700" />
   <br>
   <b>Figure 1: Architecture of the VADB-Net Video Encoder</b>
 </div>
