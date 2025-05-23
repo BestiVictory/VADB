@@ -2,6 +2,12 @@
 
 This repository introduces **VADB**, a large-scale video aesthetics database, and **VADB-Net**, a novel video aesthetics scoring framework designed to evaluate the aesthetic quality of videos across multiple dimensions. Our work provides comprehensive resources for researchers and developers interested in video aesthetics analysis, computer vision, and multimedia content assessment.
 
+![VADB-Net Architecture](docs/VADB-Net.png)  
+*Figure 1: Architecture of the VADB-Net Video Encoder*
+
+![VADB Examples](docs/VADB-examples.png)  
+*Figure 2: Sample videos and annotations from the VADB dataset*
+
 ## 📦 Dataset
 The **VADB dataset** is publicly available on Hugging Face:  
 [https://huggingface.co/datasets/BestiVictoryLab/VADB](https://huggingface.co/datasets/BestiVictoryLab/VADB)
