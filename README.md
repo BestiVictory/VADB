@@ -93,5 +93,5 @@ The repository is structured into three main components:
 
 ## 📜 License
 - **VADB dataset**: Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (commercial use prohibited).
-- **Code and models**: Licensed under [CC BY 4.0 License](LICENSE).
+- **Code and models**: Licensed under [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
     
