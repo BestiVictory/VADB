@@ -76,11 +76,20 @@ The repository is structured into three main components:
   python 3HumanAttribute.py
   ```
 
-## 🚀 Getting Started
-1. Install the required dependencies (see `requirements.txt`).
-2. Download the VADB dataset from Hugging Face.
-3. Load the pre-trained video encoder.
-4. Run the scoring model suitable for your use case.
+## 🚀 Getting Started  
+1. **Install the required dependencies (From CLIP):**  
+   ```bash  
+   conda install --yes -c pytorch pytorch=1.7.1 torchvision cudatoolkit=11.0  
+   pip install ftfy regex tqdm  
+   pip install opencv-python boto3 requests pandas  
+   ```  
+2. Download the VADB dataset from Hugging Face:  
+   ```bash  
+   git lfs install  
+   git clone https://huggingface.co/datasets/BestiVictoryLab/VADB  
+   ```  
+3. Load the pre-trained video encoder (see [Video Encoder](#video-encoder)).  
+4. Run the scoring model suitable for your use case (see [Scoring Models](#scoring-models)). 
 
 ## 📜 License
 - **VADB dataset**: Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (commercial use prohibited).
